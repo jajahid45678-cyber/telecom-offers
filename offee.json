@@ -2,14 +2,14 @@
   "data": {
     "Grameenphone": {
       "ড্রাইভ প্যাক": {
-        "offer_title": "GP 65GB Drive Offerer (All BD)",
+        "offer_title": "GP 60GB Drive Offer (All BD)",
         "reg_price": "799",
         "sale_price": "620",
         "commission": "179",
         "validity": "30 Days"
       },
       "রেগুলার প্যাক": {
-        "offer_title": "GP 40GB Regular Internet",
+        "offer_title": "GP 10GB Regular Internet",
         "reg_price": "399",
         "sale_price": "399",
         "commission": "0",
@@ -39,10 +39,10 @@
     },
     "Robi": {
       "ড্রাইভ প্যাক": {
-        "offer_title": "Robi 50GB+500 Min (All BD)",
-        "reg_price": "599",
-        "sale_price": "549",
-        "commission": "150",
+        "offer_title": "Robi 65GB Huge Drive",
+        "reg_price": "849",
+        "sale_price": "640",
+        "commission": "209",
         "validity": "30 Days"
       },
       "রেগুলার প্যাক": {
@@ -223,4 +223,4 @@
       }
     }
   }
-}
+      }
